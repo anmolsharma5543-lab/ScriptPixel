@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ScriptPixel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ScriptPixel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/ScriptPixel/",
+  "description": "ScriptPixel - AI Assistant &amp; Studio"
+}
