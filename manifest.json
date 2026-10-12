@@ -4,10 +4,24 @@
   "display": "standalone",
   "name": "ScriptPixel",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/ScriptPixel/",
   "short_name": "ScriptPixel",
-  "start_url": "/",
+  "start_url": "/ScriptPixel/",
   "theme_color": "#ffffff",
   "id": "/ScriptPixel/",
-  "description": "ScriptPixel - AI Assistant &amp; Studio"
+  "description": "ScriptPixel - AI Assistant & Studio",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
